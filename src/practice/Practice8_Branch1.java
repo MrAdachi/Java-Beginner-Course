@@ -15,6 +15,6 @@ public class Practice8_Branch1 {
 		amount = (int)((price - discount) * (1 + rate));
 		System.out.println("値引金額：" + discount + "円");
 		System.out.println("税込金額：" + amount + "円");	
-	}	
+	}
 
 }
